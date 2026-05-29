@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Headphone Arc band -->
+    <path
+        android:pathData="M 33 54 A 21 21 0 0 1 75 54"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeColor="#00F0FF" />
+
+    <!-- Left Earpiece cup -->
+    <path
+        android:pathData="M 24 50 A 4 4 0 0 1 28 46 H 32 A 4 4 0 0 1 36 50 V 66 A 4 4 0 0 1 32 70 H 28 A 4 4 0 0 1 24 66 Z"
+        android:fillColor="#F43F5E" />
+
+    <!-- Right Earpiece cup -->
+    <path
+        android:pathData="M 72 50 A 4 4 0 0 1 76 46 H 80 A 4 4 0 0 1 84 50 V 66 A 4 4 0 0 1 80 70 H 76 A 4 4 0 0 1 72 66 Z"
+        android:fillColor="#F43F5E" />
+
+    <!-- Central Floating Note -->
+    <path
+        android:pathData="M 54 36 V 56 A 6 6 0 1 1 48 50 A 6 6 0 0 1 54 56 M 54 44 H 68 V 36 H 54 Z"
+        android:fillColor="#FFFFFF" />
+        
+</vector>

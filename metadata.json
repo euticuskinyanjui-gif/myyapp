@@ -1,0 +1,6 @@
+{
+  "name": "Music Player",
+  "description": "A beautiful, immersive music player to stream vibey categories, manage favorites, and customize playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
